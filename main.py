@@ -126,7 +126,7 @@
 #     ):
 #         javoblar.append("YES")
 #     else:
-#         javoblar.append("NO'q")
+#         javoblar.append("NO")
 
 # for javob in javoblar:
 #     print(javob)
